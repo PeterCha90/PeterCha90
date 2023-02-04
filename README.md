@@ -1,6 +1,6 @@
 ### Hi there! :) 👋
 
-- I’m currently working as a developer in Seoul, Korea. <br>🌱 I’m currently learning everything I need to make a good service. <br>These are my favorite things. The list will be updated.<br>
+- I’m currently working as a developer in **Seoul, Korea**. <br>🌱 I’m currently learning everything I need to make good services. <br>These are my favorite things. The list will be updated.<br>
   
   <table>
     <tr>
