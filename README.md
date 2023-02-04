@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on KB Kookmin Bank, Seoul in Korea.
+- 🔭 I’m currently working as a developer in Seoul, Korea.
 - 🌱 I’m currently learning everything I need to make a good service.
 - 📫 How to reach me: petercha90@gmail.com
 
