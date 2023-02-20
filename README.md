@@ -5,7 +5,7 @@
   <table>
     <tr>
       <th>Language</th>
-      <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white" /></td>
     </tr>
     <tr>
       <th>Front</th>
@@ -13,7 +13,7 @@
     </tr>
     <tr>
       <th>Back</th>
-      <td><img src="https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=AWSLambda&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" /></td>
     </tr>
     <tr>
       <th>DB</th>
