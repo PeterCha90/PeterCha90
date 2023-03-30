@@ -21,7 +21,7 @@
     </tr>
     <tr>
       <th>CI/CD</th>
-      <td><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white" /></td>
     </tr>
     <tr>
       <th>ML</th>
