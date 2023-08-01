@@ -13,7 +13,7 @@
     </tr>
     <tr>
       <th>Back</th>
-      <td><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=Prisma&logoColor=white" /></td>
     </tr>
     <tr>
       <th>DB</th>
