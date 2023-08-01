@@ -5,11 +5,11 @@
   <table>
     <tr>
       <th>Language</th>
-      <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></td>
     </tr>
     <tr>
       <th>Front</th>
-      <td><img src="https://img.shields.io/badge/React-0088CC?style=flat&logo=React&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/NextJS-000000?style=flat&logo=Next.js&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/React-0088CC?style=flat&logo=React&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/NextJS-000000?style=flat&logo=Next.js&logoColor=white" /></td>
     </tr>
     <tr>
       <th>Back</th>
